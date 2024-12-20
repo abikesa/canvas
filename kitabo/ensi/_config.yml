@@ -4,11 +4,11 @@
 
 #######################################################################################
 # Book settings
-title                       : Epicurean # The title of the book. Will be placed in the left navbar.
+title                       : Canvas # The title of the book. Will be placed in the left navbar.
 author                      : # The author of the book
 copyright                   : "2025"  # Copyright year to be placed in the footer
 logo                        : https://www.tmc.edu/news/wp-content/uploads/sites/2/2019/08/kidney-copy.jpg  # A path to the book logo
-email                       : "abikesa.sh@gmail.com"
+email                       : "muzaale@gmail.com"
 exclude_patterns            : ["LICENSE.md"]  # Patterns to skip when building the book. Can be glob-style (for example "*skip.ipynb")
 
 #######################################################################################
