@@ -1,54 +1,54 @@
-# Dionysus
+# Abstracts
 format: jb-book
 root: index
 chapters:
-  # Sing O Muse!
+  # Study Design
   - file: act1/part1
     sections:
-      - title: Abstracts
+      - title: Background
         file: act1/chapter1
-      - title: Nondonor Risk
+      - title: Methods
         file: act1/chapter2
-      - title: Attributable Risk
+      - title: Results
         file: act1/chapter3
         
-  # Sing O Muse!
+  # Models & Inferences
   - file: act2/part2
     sections:
-      - title: Mortality
+      - title: Inferences
         file: act2/chapter1
-      - title: ESRD
+      - title: Estimates
         file: act2/chapter2
-      - title: Hospitalization
+      - title: Uncertainty
         file: act2/chapter3
 
-  # Apollo
+  # Dynamic vs. Static
   - file: act3/part3
     sections:
-      - title: Estimates
+      - title: Static
         file: act3/act1
         sections:
-          - title: Cosmic
+          - title: Perioperative Death
             file: act3/part1/part1_1
-          - title: Earth
+          - title: Individualization
             file: act3/part1/part1_2
-          - title: Life
+          - title: Next Steps
             file: act3/part1/part1_3
-      - title: Uncertainty
+      - title: Dynamic
         file: act3/act2
         sections:
-          - title: Man
+          - title: IRBs
             file: act3/part2/part2_1
-          - title: Fall
+          - title: Disclosure Risks
             file: act3/part2/part2_2
-          - title: Salvation
+          - title: Open Collaboratives
             file: act3/part2/part2_3
-      - title: Inferences
+      - title: Beyond Donation
         file: act3/act3
         sections:
-          - title: Happiness
+          - title: Clinical Research
             file: act3/part3/part3_1
-          - title: Iteration
+          - title: Public Health
             file: act3/part3/part3_2
 
   - file: act3/part3/part3_3
