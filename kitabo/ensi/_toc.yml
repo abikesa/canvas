@@ -25,7 +25,7 @@ chapters:
   # Dynamic vs. Static
   - file: act3/part3
     sections:
-      - title: Static
+      - title: 'Static: Case-Study'
         file: act3/act1
         sections:
           - title: Perioperative Death
@@ -34,7 +34,7 @@ chapters:
             file: act3/part1/part1_2
           - title: Next Steps
             file: act3/part1/part1_3
-      - title: Dynamic
+      - title: 'Dynamic: Great Promise' 
         file: act3/act2
         sections:
           - title: IRBs
